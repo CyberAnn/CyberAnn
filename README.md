@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on ... a coordinate computing theory and a system that can autoselect/press buttons on the wii system/other systems not virtually.
 - 📫 How to reach me cyberann.org@gmail.com or here
 - 😄 Pronouns: ...She/her
-🎮 I’m a freelance video game console repair technician, specializing in reviving vintage systems like the Wii. Beyond consoles, I repair computers, TVs, and other electronics.
-🖨️ I’m also a 3D printing enthusiast and 3D modeler, crafting everything from unique designs to practical tools. Whether I’m prototyping new ideas or delivering custom pieces to clients, I love exploring the creative potential of 3D printing.
+- 🎮 I’m a freelance video game console repair technician, specializing in reviving vintage systems like the Wii. Beyond consoles, I repair computers, TVs, and other electronics.
+- 🖨️ I’m also a 3D printing enthusiast and 3D modeler, crafting everything from unique designs to practical tools. Whether I’m prototyping new ideas or delivering custom pieces to clients, I love exploring the creative potential of 3D printing.
 
 
 <!---
